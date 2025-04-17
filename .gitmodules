@@ -1,0 +1,12 @@
+[submodule "metaboard-frontend"]
+	path = metaboard-frontend
+	url = https://github.com/Google-Developer-Group-UMaT/metaboard-frontend
+[submodule "metaboard-backend"]
+	path = metaboard-backend
+	url = https://github.com/Google-Developer-Group-UMaT/metaboard-backend.git
+[submodule "metaboard-mobile"]
+	path = metaboard-mobile
+	url = https://github.com/Google-Developer-Group-UMaT/metaboard-mobile.git
+[submodule "metaboard-devops"]
+	path = metaboard-devops
+	url = https://github.com/Google-Developer-Group-UMaT/metaboard-devops
